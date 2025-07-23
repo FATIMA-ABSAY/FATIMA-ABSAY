@@ -60,9 +60,9 @@
 
 ## 🌐 Contacte-moi
 
-- 📫 Email : fatima.absay@example.com
-- 💼 LinkedIn : [linkedin.com/in/fatimaabsay](https://linkedin.com/in/fatimaabsay)
-- 💻 Portfolio : [ton-portfolio.com](https://ton-portfolio.com)
+- 📫 Email: fatimaabsay1999@example.com
+- 💼 LinkedIn : [linkedin.com/in/fatima-absay]([https://www.linkedin.com/in/fatima-absay-6139b427b/])
+- 💻 Portfolio : [My-portfolio.com](https://portfolio.com)
 
 ---
 
