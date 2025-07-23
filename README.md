@@ -66,6 +66,3 @@
 
 ---
 
-> ✨ N'oublie pas de remplacer `fatimaabsay` et les liens avec les tiens ! Je peux aussi t’aider à héberger ton portfolio gratuitement (Netlify, GitHub Pages…).
-
-Souhaites-tu que je te génère ce README complet dans un fichier `.md` prêt à coller ?
