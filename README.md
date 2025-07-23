@@ -1,3 +1,5 @@
+# 👋 Salut, je suis FATIMA ABSAY
+
 <div align="center" width="50%">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60%" alt="Hello Coders"/><br>
@@ -11,7 +13,7 @@
 </details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fatimaabsay&style=flat&color=blue&label=VISITE+DU+PROFIL)
-[![LinkedIn](https://img.shields.io/badge/-FatimaAbsay-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/-FatimaAbsay-blue?style=flat&logo=linkedin)](https://linkedin.com/in/fatima-absay-6139b427b/)
 
 </div>
 
@@ -60,9 +62,8 @@
 
 ## 🌐 Contacte-moi
 
-- 📫 Email: fatimaabsay1999@example.com
-- 💼 LinkedIn : [linkedin.com/in/fatima-absay]([https://www.linkedin.com/in/fatima-absay-6139b427b/])
+- 📫 Email: fatimaabsay1999@example.com  
+- 💼 LinkedIn : [linkedin.com/in/fatima-absay-6139b427b/](https://www.linkedin.com/in/fatima-absay-6139b427b/)  
 - 💻 Portfolio : [My-portfolio.com](https://portfolio.com)
 
 ---
-
